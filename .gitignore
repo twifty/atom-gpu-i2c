@@ -1,0 +1,13 @@
+*.o
+*~
+*.d
+*core
+*.depend
+*.*.cmd
+*.mod
+*.mod.c
+*.tmp_versions
+*.order
+*.symvers
+build
+
